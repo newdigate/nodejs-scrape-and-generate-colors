@@ -4,7 +4,7 @@ Using nodejs as a code generator to scrape colors from wikipedia and generate c+
 * App1: scrape html from 'shades of...' wikipedia pages -> save as ```output/colors.json```  
 * App2: scrape html from 'lists of colors...' wikipedia pages -> load ```output/colors.json``` -> save as ```output/colors2.json```
 * App3: load ```output/colors2.json``` -> save ```output/tones/<tone_name>.svg``` for each tone
-* App4: load ```output/colors2.json``` -> save ```output/md/<shade_name>.svg``` for each shade
+* App4: load ```output/colors2.json``` -> save ```output/md/<shade_name>.md``` (Markdown table of tones for each shade)
 * App5: load ```output/colors2.json``` -> save ```output/cpp/RGB565_colors.h```
 * App6: load ```output/colors2.json``` -> save ```output/cpp/RGB565_palettes.h``` 
 
