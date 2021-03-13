@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-scrape-and-generate-colors",
+  "version": "1.0.0",
+  "dependencies": {
+    "d3": "^6.6.0",
+    "jsdom": "^16.5.0",
+    "utf8": "^3.0.0"
+  }
+}
