@@ -11,3 +11,5 @@ Using nodejs as a code generator to scrape colors from wikipedia and generate c+
 ```javascript
 let shades = ["azure","black","blue","brown","cyan","green","gray","magenta","orange","pink","purple","red","white","yellow","violet","misc"];
 ```
+# credits 
+* [generate-svg-files-using-nodejs-d3](https://medium.com/@92sharmasaurabh/generate-svg-files-using-nodejs-d3-647d5b4f56eb)
